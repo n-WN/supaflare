@@ -76,7 +76,7 @@ Create a [Fork](https://github.com/supaflare/supaflare/fork) of Supaflare as the
 
 1. [Sign up](https://app.supabase.io) for a Supabase account.
 2. Create a new Project.
-3. Click SQL on the left menu bar and select `+ New query`.
+3. Click SQL Editor on the left menu bar and select `+ New query`.
 4. Copy the contents found in [/app/src/database.sql](app/src/database.sql) and run it in.
 5. Click Settings on the left menu bar and select `API`.
 6. Copy the **Project API key > anon / public** somewhere, you will require it later.
