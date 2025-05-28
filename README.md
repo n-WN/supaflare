@@ -76,9 +76,9 @@ Create a [Fork](https://github.com/supaflare/supaflare/fork) of Supaflare as the
 
 1. [Sign up](https://app.supabase.io) for a Supabase account.
 2. Create a new Project.
-3. Click SQL Editor on the left menu bar and select `+ New query`.
+3. Click SQL Editor on the left menu bar and select Editor.
 4. Copy the contents found in [/app/src/database.sql](app/src/database.sql) and run it in.
-5. Click Settings on the left menu bar and select `API`.
+5. Click Project Settings on the left menu bar and select `API Keys`.
 6. Copy the **Project API key > anon / public** somewhere, you will require it later.
 7. Copy the **Config > URL** somewhere, you will require it later.
 8. Copy the **Config > JWT Secret** somewhere, you will require it later.
